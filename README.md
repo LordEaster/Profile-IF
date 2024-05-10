@@ -6,6 +6,7 @@
   - Calendar | ปฏิทิน
   - My Activity | กิจกรรมของฉัน
   - Account | ผู้ใช้
+Desktop
 ![student desktop layout](https://raw.githubusercontent.com/LordEaster/Profile-IF/main/assets/img/layouts/student/MacBook-Pro.jpeg)
 
 - Mobile
@@ -14,6 +15,7 @@
   - Scan | สแกน
   - My Activity | กิจกรรมของฉัน
   - Account | ผู้ใช้
+Mobile
 ![student mobile layout](https://raw.githubusercontent.com/LordEaster/Profile-IF/main/assets/img/layouts/student/iPhone-12-Pro.jpeg)
 
 - Tablet
@@ -27,8 +29,10 @@
   - Location | สถานที่
   - Organization | ผู้จัดงาน
   - Target | กลุ่มเป้าหมาย
+Desktop
 ![admin desktop layout](https://raw.githubusercontent.com/LordEaster/Profile-IF/main/assets/img/layouts/admin/MacBook-Pro.jpeg)
-![admin desktop layout](https://raw.githubusercontent.com/LordEaster/Profile-IF/main/assets/img/layouts/admin/iPhone-12-Pro.jpeg)
+Mobile
+![admin mobile layout](https://raw.githubusercontent.com/LordEaster/Profile-IF/main/assets/img/layouts/admin/iPhone-12-Pro.jpeg)
 
 - Tablet
   - INCOMING!!
