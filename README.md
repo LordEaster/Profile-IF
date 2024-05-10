@@ -1,4 +1,4 @@
-# Profile-IF Layout
+# Profile-IF
 
 ## Student Layout
 - Desktop
